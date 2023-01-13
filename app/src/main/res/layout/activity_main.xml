@@ -31,7 +31,7 @@
                 android:focusableInTouchMode="true"
                 android:hint="@string/username"
                 android:textColorHint="@color/white"
-                app:startIconDrawable="@drawable/person_24"
+                app:startIconDrawable="@drawable/ic_baseline_person_24"
                 app:helperText="@string/Required"
                 app:helperTextTextColor="@color/white"
                 app:counterEnabled="true"
