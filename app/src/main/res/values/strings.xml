@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="username">User Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone No</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthdate">Birth of Date</string>
+    <string name="register">Register</string>
+    <string name="Required">Required*</string>
+    <string name="countryCode">+251</string>
+
+    <string name="formResult">Form Result</string>
+</resources>

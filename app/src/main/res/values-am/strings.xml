@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" ይመዝገቡ"</string>
+    <string name="username">የተጠቃሚ ስም</string>
+    <string name="email">ኢሜይል</string>
+    <string name="phone">ስልክ ቁጥር</string>
+    <string name="register">" ይመዝገቡ"</string>
+    <string name="birthdate">" የትውልድ ቀን"</string>
+    <string name="male">ወንድ</string>
+    <string name="female">ሴት</string>
+    <string name="Required">ያስፈልጋል</string>
+    <string name="countryCode">+251</string>
+
+    <string name="formResult">ያስፈልጋል</string>
+</resources>
